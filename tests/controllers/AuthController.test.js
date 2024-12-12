@@ -3,8 +3,8 @@ import dbClient from '../../utils/db';
 
 describe('+ AuthController', () => {
   const mockUser = {
-    email: 'newemail1@example.com',
-    password: 'newpassword1',
+    email: 'kaido@beast.com',
+    password: 'hyakuju_no_kaido_wano',
   };
   let token = '';
 

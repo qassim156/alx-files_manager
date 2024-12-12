@@ -9,8 +9,8 @@ describe('+ FilesController', () => {
     ? process.env.FOLDER_PATH.trim()
     : joinPath(tmpdir(), DEFAULT_ROOT_FOLDER);
   const mockUser = {
-    email: 'newemail2@example.com',
-    password: 'newpassword2',
+    email: 'katakuri@bigmom.com',
+    password: 'mochi_mochi_whole_cake',
   };
   /**
    * 3 sample files
